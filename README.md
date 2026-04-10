@@ -1,55 +1,71 @@
 # Digital Twins and Explainable AI for Ethical Quality Assurance in Medical Devices
 
-This repository contains my research proposal exploring how Digital Twin technologies and Explainable Artificial Intelligence (XAI) can be integrated into predictive quality assurance (QA) frameworks for medical devices. This work forms part of my postgraduate study and examines how advanced analytical technologies can support safer, more transparent, and more effective QA processes within regulated healthcare environments. [1](https://github.com/topics/stock-market-analysis)
+This repository contains my postgraduate research proposal exploring how Digital Twins and Explainable AI (XAI) can strengthen Medical Device Regulation (MDR 2017/745) quality‑assurance activities.
+The work connects advanced simulation, predictive modelling, and transparent AI systems with real regulatory processes such as PMS, technical‑documentation assessment, and risk‑based auditing.
 
 ---
 
 ## 📌 Overview
 
-Digital Twins—virtual representations of physical medical devices—and XAI frameworks are becoming increasingly influential in Quality 4.0. My proposal evaluates how these technologies can be combined to:
+Medical‑device regulation is increasingly data‑intensive, requiring manufacturers and Notified Bodies to evaluate complex device behaviour, performance evidence, and safety trends.
+This proposal examines how combining Digital Twin technology with explainable machine‑learning models can:
 
-- Predict device failures before they occur  
-- Improve product reliability through lifecycle simulation  
-- Enable transparent, auditable machine‑learning decisions  
-- Strengthen alignment with MDR, ISO 13485, and MDSAP  
-- Enhance patient safety by reducing device‑associated risks [1](https://github.com/topics/stock-market-analysis)
+Improve predictive insights into device failure modes
+Strengthen clinical‑evidence evaluation through simulation‑based validation
+Enable earlier detection of emerging PMS risks
+Create auditable, regulator‑friendly AI systems that maintain trust and traceability
+Support decision‑making within MDR Annex VII and ISO/IEC 17065 frameworks
 
-This proposal also discusses the ethical, legal, and professional responsibilities associated with deploying Digital Twin–AI systems in regulated medical‑device environments.
-
----
-
-## 🧠 Key Questions Addressed
-
-### **1. How can Digital Twins enhance predictive QA?**  
-Digital Twins enable continuous monitoring, simulation, and validation across the device lifecycle. They support scenario testing, early detection of degradation, and more robust post‑market surveillance data integration. [1](https://github.com/topics/stock-market-analysis)
-
-### **2. What role does XAI play in regulatory compliance?**  
-XAI ensures that machine‑learning models used for predictive QA are transparent, interpretable, and auditable. This is essential in regulated contexts where decisions must be explainable to regulators, auditors, and manufacturers. [1](https://github.com/topics/stock-market-analysis)
-
-### **3. What ethical and legal risks arise from combining these technologies?**  
-The proposal evaluates issues related to:  
-- Bias and fairness in ML models  
-- Patient privacy and GDPR  
-- Data governance for high‑fidelity device simulation  
-- Traceability and documentation requirements  
-- Professional accountability in automated decision systems [1](https://github.com/topics/stock-market-analysis)
+The goal is simple: use high‑fidelity simulation + transparent AI to deliver safer devices, better oversight, and more consistent regulatory decisions.
 
 ---
 
-## 📄 Full Proposal
+## 🧠 Key Concepts Covered
+1. Digital Twins in Medical Devices
 
-### 📘 PDF version (recommended for browser viewing)  
-`proposal/digital_twin_xai_proposal.pdf`
+Real‑time virtual models of device performance
+Simulation of mechanical, electrical, and biological behaviour
+Use in predicting failure points and validating design assumptions
+Integration with PMS datasets for ongoing risk evaluation
 
-### 📝 Original DOCX version  
-`proposal/Module 2 Assignment 2.docx`
+2. Explainable AI (XAI)
 
-Both versions contain the full academic content, including methodology, literature review, ethical considerations, and research timeline.
+Transparent ML models suitable for regulated decision pathways
+Techniques such as SHAP, LIME, and feature‑importance analysis
+Enabling auditors and regulators to understand “why” a model made a recommendation
+Supporting traceability, fairness, and accountability
+
+3. Combined Applications in Quality Assurance
+
+Simulation‑driven predictive QA
+Digital Twins used as evidence for PMS and PMCF activities
+ML models that highlight emerging device performance anomalies
+Risk‑based audit frameworks enhanced by interpretable AI signals
+
+4. Governance, Ethics & Compliance
+
+Alignment with MDR 2017/745 expectations
+Data integrity, audit trails, and model validation
+Cloud‑based deployment considerations
+Ensuring AI‑driven decisions remain explainable, reproducible, and reviewable
+
+---
+
+## 📄 Full Research Proposal
+
+📘 PDF version (recommended)
+paper/Digital_Twins_XAI_MDQA_Proposal.pdf
+
+📝 DOCX version (optional)
+paper/Digital_Twins_XAI_MDQA_Proposal.docx
+
+Both include the full literature review, conceptual framework, and proposed methodology.
 
 ---
 
 ## 📁 Repository Structure
 
+```
 digital-twins-xai-medical-device-qa/
 │
 ├── proposal/
@@ -57,20 +73,20 @@ digital-twins-xai-medical-device-qa/
 │   └── Module 2 Assignment 2.docx
 │
 └── README.md
+```
 
 ---
 
-## 🧭 Why This Work Matters
+## 🧭 Why This Project Matters in My Portfolio
+This proposal represents the intersection of my industry experience in Global Quality & Accreditation and my academic study of advanced analytics. It highlights my understanding of:
 
-As part of my role in quality and accreditation for medical‑device conformity assessment, I have a strong interest in how emerging technologies can support ethical, reliable, and compliant QA practices. Digital Twins and XAI represent significant opportunities to:
+Predictive modelling in regulated environments
+Simulation and virtual‑device validation
+AI governance and explainability
+Medical‑device PMS and technical‑documentation workflows
+How modern data technologies can support MDR‑aligned quality systems
 
-- Improve device reliability  
-- Strengthen regulatory transparency  
-- Enhance post‑market surveillance  
-- Reduce risks through predictive insights  
-- Bridge data science with medical‑device quality and safety  
-
-This proposal contributes to my broader portfolio of analytical and regulatory research.
+It reflects my long‑term interest in data‑driven quality assurance, using advanced tools to support safer devices, better compliance, and more efficient regulatory oversight.
 
 ---
 
