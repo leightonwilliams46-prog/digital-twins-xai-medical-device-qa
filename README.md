@@ -54,12 +54,9 @@ Ensuring AI‑driven decisions remain explainable, reproducible, and reviewable
 ## 📄 Full Research Proposal
 
 📘 PDF version (recommended)
-paper/Digital_Twins_XAI_MDQA_Proposal.pdf
+[Download PDF](proposal/Module%202%20Assignment%202.pdf
 
-📝 DOCX version (optional)
-paper/Digital_Twins_XAI_MDQA_Proposal.docx
-
-Both include the full literature review, conceptual framework, and proposed methodology.
+Includes the full literature review, conceptual framework, and proposed methodology.
 
 ---
 
