@@ -54,7 +54,7 @@ Ensuring AI‑driven decisions remain explainable, reproducible, and reviewable
 ## 📄 Full Research Proposal
 
 📘 PDF version (recommended)
-[Download PDF](proposal/Module%202%20Assignment%202.pdf
+[Download PDF](proposal/Module%202%20Assignment%202.pdf)
 
 Includes the full literature review, conceptual framework, and proposed methodology.
 
